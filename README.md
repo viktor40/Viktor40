@@ -22,14 +22,13 @@ Hi, I am Viktor, a 21 year old Physics and Astronomy student at Ghent University
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-E37456?style=for-the-badge&logo=Kotlin&logoColor=white)
 ![R](https://img.shields.io/badge/R-blue?style=for-the-badge&logo=R&logoColor=white)
-
+![Zig](https://img.shields.io/badge/Zig-f7a41d?style=for-the-badge&logo=zig&logoColor=white)
 ## Technologies I want to learn in the future
 
 ![Shell_Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-<!--![Zig](https://img.shields.io/badge/Zig-f7a41d?style=for-the-badge&logo=zig&logoColor=white)-->
 ![Rust](https://img.shields.io/badge/Rust-262626?style=for-the-badge&logo=rust&logoColor=white)
 ![Julia](https://img.shields.io/badge/Julia-purple?style=for-the-badge&logo=julia&logoColor=white)
 ![Haskell](https://img.shields.io/badge/Haskell-b45bff?style=for-the-badge&logo=Haskell&logoColor=white)
