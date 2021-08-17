@@ -1,7 +1,7 @@
 ## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 Hi, I am Viktor, a 21 year old Physics and Astronomy student at Ghent University in Belgium. I am a tech enthousiast and very much like open-source technologies. I am also an avid technical minecraft player and make the occasional minecraft mod. I like working on projects, especially to learn new technologies, and such also like learning many technologies. My pronouns are He/him.
 
-![Discord](https://img.shields.io/badge/-Viktor40-7289DA?style=flat-square&logo=Discord&logoColor=white)
+[![Discord](https://img.shields.io/badge/-Join-7289DA?style=flat-square&logo=Discord&logoColor=white)](https://discord.gg/Vrs7dV5)
 [![Youtube Badge](https://img.shields.io/badge/-Viktor40-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/Viktor40)](https://www.youtube.com/c/Viktor40)
 [![Gmail Badge](https://img.shields.io/badge/-viktorvn40@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:viktorvn40@gmail.com)](mailto:viktorvn40@gmail.com)
 
