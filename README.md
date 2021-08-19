@@ -19,12 +19,18 @@ Hi, I am Viktor, a 21 year old Physics and Astronomy student at Ghent University
 ![Java](https://img.shields.io/badge/Java-d65d0e?style=for-the-badge&logo=java&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008876?style=for-the-badge&logo=LaTeX&logoColor=white)
 
-![Numpy](https://img.shields.io/badge/Numpy-008876?style=for-the-badge&logo=Numpy&logoColor=white)
-![Scipy](https://img.shields.io/badge/Scipy-008876?style=for-the-badge&logo=Scipy&logoColor=white)
+![Numpy](https://img.shields.io/badge/Numpy-00d2ff?style=for-the-badge&logo=Numpy&logoColor=white)
+![Scipy](https://img.shields.io/badge/Scipy-134dae?style=for-the-badge&logo=Scipy&logoColor=white)
+![Tensorflow](https://img.shields.io/badge/Tensorflow-d4870a?style=for-the-badge&logo=Tensorflow&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-389b95?style=for-the-badge&logo=Arduino&logoColor=white)
 
 ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=Git&logoColor=white)
 ![Github](https://img.shields.io/badge/Github-gray?style=for-the-badge&logo=Github&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-ff5bf9?style=for-the-badge&logo=Debian&logoColor=white)
+
+![Intelij IDEA](https://img.shields.io/badge/Intelij-ff0066?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=white)
+![Pycharm](https://img.shields.io/badge/Pycharm-5ae000?style=for-the-badge&logo=Pycharm&logoColor=white)
+![VScode](https://img.shields.io/badge/VScode-0084e0?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ## Technologies I am currently learning
 
@@ -43,7 +49,9 @@ Hi, I am Viktor, a 21 year old Physics and Astronomy student at Ghent University
 ![Rust](https://img.shields.io/badge/Rust-262626?style=for-the-badge&logo=rust&logoColor=white)
 ![Julia](https://img.shields.io/badge/Julia-purple?style=for-the-badge&logo=julia&logoColor=white)
 ![Haskell](https://img.shields.io/badge/Haskell-b45bff?style=for-the-badge&logo=Haskell&logoColor=white)
-![C#](https://img.shields.io/badge/Gradle-0abfac?style=for-the-badge&logo=gradle&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-8124d8?style=for-the-badge&logo=CSharp&logoColor=white)
+
+![Ruby](https://img.shields.io/badge/Ruby-ff007e?style=for-the-badge&logo=Ruby&logoColor=white)
 
 ![SQLite](https://img.shields.io/badge/SQLite-033851?style=for-the-badge&logo=SQLite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-3e03ff?style=for-the-badge&logo=MySQL&logoColor=white)
