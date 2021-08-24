@@ -47,11 +47,11 @@ Hi, I am Viktor, a 21 year old Physics and Astronomy student at Ghent University
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-262626?style=for-the-badge&logo=rust&logoColor=white)
-![Julia](https://img.shields.io/badge/Julia-purple?style=for-the-badge&logo=julia&logoColor=white)
 ![Haskell](https://img.shields.io/badge/Haskell-b45bff?style=for-the-badge&logo=Haskell&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-8124d8?style=for-the-badge&logo=CSharp&logoColor=white)
 
 ![Ruby](https://img.shields.io/badge/Ruby-ff007e?style=for-the-badge&logo=Ruby&logoColor=white)
+![Julia](https://img.shields.io/badge/Julia-purple?style=for-the-badge&logo=julia&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-8124d8?style=for-the-badge&logo=CSharp&logoColor=white)
 
 ![SQLite](https://img.shields.io/badge/SQLite-033851?style=for-the-badge&logo=SQLite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-3e03ff?style=for-the-badge&logo=MySQL&logoColor=white)
