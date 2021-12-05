@@ -7,9 +7,9 @@ Hi, I am Viktor, a 21 year old Physics and Astronomy student at Ghent University
 
 ## Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Viktor40&count_private=true&show_icons=true&include_all_commits=true&theme=radical&hide=jupyter%20notebook)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Viktor40&count_private=true&show_icons=true&include_all_commits=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Viktor40&hide=TeX&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Viktor40&hide=TeX&theme=radical&hide=jupyter%20notebook)
 
 ## Technologies
 
