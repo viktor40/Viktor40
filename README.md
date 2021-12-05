@@ -26,7 +26,7 @@ Hi, I am Viktor, a 21 year old Physics and Astronomy student at Ghent University
 
 ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=Git&logoColor=white)
 ![Github](https://img.shields.io/badge/Github-gray?style=for-the-badge&logo=Github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Github-gray?style=for-the-badge&logo=Jupyter%20Notebook&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter%20Notebook-orange?style=for-the-badge&logo=Jupyter&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-ff5bf9?style=for-the-badge&logo=Debian&logoColor=white)
 
 ![Intelij IDEA](https://img.shields.io/badge/Intelij-ff0066?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=white)
