@@ -13,6 +13,7 @@ Hi, I am Viktor, a 21 year old Physics and Astronomy student at Ghent University
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-d65d0e?style=for-the-badge&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-E37456?style=for-the-badge&logo=Kotlin&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008876?style=for-the-badge&logo=LaTeX&logoColor=white)
 
 ![Numpy](https://img.shields.io/badge/Numpy-00d2ff?style=for-the-badge&logo=Numpy&logoColor=white)
@@ -25,8 +26,7 @@ Hi, I am Viktor, a 21 year old Physics and Astronomy student at Ghent University
 ![Debian](https://img.shields.io/badge/Debian-ff5bf9?style=for-the-badge&logo=Debian&logoColor=white)
 
 ## Technologies I am currently learning
-
-![Kotlin](https://img.shields.io/badge/Kotlin-E37456?style=for-the-badge&logo=Kotlin&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Julia](https://img.shields.io/badge/Julia-purple?style=for-the-badge&logo=julia&logoColor=white)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Viktor40.Viktor40)
